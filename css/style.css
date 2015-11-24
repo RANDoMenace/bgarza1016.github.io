@@ -1,0 +1,40 @@
+html{
+  text-align: center;
+}
+
+.header{
+  background-color: black;
+}
+
+.header, h1{
+  color: white;
+  max-height: 100%;
+}
+
+.tagline{
+  background-color: lightblue;
+  text-align: center;
+}
+
+img{
+  height: auto;
+  width: auto;
+  max-height: 300px;
+  max-width: 300px;
+  border-radius: 100%;
+  border: 5px solid black;
+}
+
+footer{
+  background-color: black;
+}
+
+footer, p{
+  color: white;
+  margin-bottom: 0;
+}
+
+ul{
+  list-style-type: none;
+}
+
