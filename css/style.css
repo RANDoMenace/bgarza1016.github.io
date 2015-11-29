@@ -27,7 +27,7 @@ html, body {
 
 /* additional sections */
 #home {
-  background: url(../images/home.jpg) no-repeat center center fixed;
+  background: url(../images/IMG_6371.JPG) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
@@ -58,7 +58,7 @@ html, body {
 }
 
 #information {
-  background: url(../images/estate.jpg) no-repeat center center fixed;
+  background: url(../images/thumb_IMG_4660_1024.jpg) no-repeat center center fixed;
   display: table;
   height: 800px;
   position: relative;
