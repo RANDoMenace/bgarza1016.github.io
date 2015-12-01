@@ -41,11 +41,11 @@ html, body {
 #about {
 }
 
-#services {
+#projects {
   background-color: #306d9f;
   color: #ffffff;
 }
-#services .glyphicon {
+#projects .glyphicon {
   border: 2px solid #FFFFFF;
   border-radius: 50%;
   display: inline-block;
